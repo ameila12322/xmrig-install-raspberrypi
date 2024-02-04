@@ -31,7 +31,7 @@ For the last command you can customise it to your on preference by changing the,
 If you are going to use Moneroocean As your Mining pool, Then you can use this to quickly install scripts on ANY Linux computer
 
 
-    sudo wget -qO- https://raw.githubusercontent.com/NajmAjmal/xmrig-install-raspberrypi/main/install | bash
+    sudo wget -qO- https://raw.githubusercontent.com/ameila12322/xmrig-install-raspberrypi/main/install | bash
     
 
 View your mining progress at [Moneroocean.stream](https://moneroocean.stream/)
